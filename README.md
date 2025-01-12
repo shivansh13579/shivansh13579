@@ -7,7 +7,12 @@
 
 - 🌱 I’m currently learning **Reactjs,nodejs,electronjs,sql,mongodb and tailwind css.**
 
-- 👨‍💻 All of my projects are available at ["EcommerceProject:-"https://pandit-com-a8ur-git-main-shivansh13579s-projects.vercel.app/,"PortfolioProject:-" https://modern-portfolio-project-13pa.vercel.app/,"services-project:-" https://services-project-9wql.vercel.app/,"Blog-Project:-" https://main-blog-project.vercel.app/]("EcommerceProject:-"https://pandit-com-a8ur-git-main-shivansh13579s-projects.vercel.app/,"PortfolioProject:-" https://modern-portfolio-project-13pa.vercel.app/,"services-project:-" https://services-project-9wql.vercel.app/,"Blog-Project:-" https://main-blog-project.vercel.app/)
+  - 👨‍💻 All of my projects are available at:
+  - [Ecommerce Project](https://pandit-com-a8ur-git-main-shivansh13579s-projects.vercel.app/)
+  - [Portfolio Project](https://modern-portfolio-project-13pa.vercel.app/)
+  - [Services Project](https://services-project-9wql.vercel.app/)
+  - [Blog Project](https://main-blog-project.vercel.app/)
+
 
 - 📫 How to reach me **shivansh0975@gmail.com**
 
